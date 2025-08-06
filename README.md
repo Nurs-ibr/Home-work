@@ -10,7 +10,7 @@
 
 - `hw_game.py` — скрипт с реализацией алгоритма
 - `notebook.ipynb` — интерактивный Jupyter Notebook
-- `requirements.txt` — зависимости (numpy)
+- `requirements.txt` — текстовый документ
 
 ## Запуск
 
