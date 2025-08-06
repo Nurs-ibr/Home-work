@@ -31,5 +31,6 @@ def score_game(guess_func) -> int:
     return average_attempts
 
 
-# Запуск
-score_game(guess_number)
+# RUN - Запуск
+if __name__ == '__main__':
+    score_game(guess_number)
